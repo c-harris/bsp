@@ -634,7 +634,7 @@ index 000000000..c7ffcbc92
 +}
 +
 +static const struct of_device_id lcm_of_match[] = {
-+	{ .compatible = "fhd,hx8399c,vdo", },
++	{ .compatible = "xinsun,xf055fhd03", },
 +	{ }
 +};
 +
